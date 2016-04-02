@@ -19,4 +19,4 @@ Licença
 
 Ester arquivos podem ser baixados livremente. It's free! Enjoy!
 
-> Copyright (c) 2012 Emanuel Limeira
+> Copyright (c) 2012-2016 Emanuel Limeira

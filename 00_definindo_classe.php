@@ -28,8 +28,15 @@ class Endereco_Fisico {}
  *  Vamos criar a primeira classe
  */
 
+/**
+ * Classe endereço
+ */
 class Endereco {
 
+    /**
+     * propriedade $rua
+     * @var string
+     */
     public $rua;
     public $subdivisao_nome = 'João Pessoa';
     public $cidade;
@@ -42,10 +49,7 @@ class Endereco {
      * public$cidade_copia = $_cidade; -> Atributo é inválido.
      * 
      */
-    
-    
-    
-    
+
 
 }
 
